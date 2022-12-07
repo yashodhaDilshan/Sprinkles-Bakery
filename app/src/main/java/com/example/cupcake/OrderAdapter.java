@@ -34,19 +34,16 @@ public class OrderAdapter extends ArrayAdapter<Order>
         View row = inflater.inflate(resource,parent, false);
 
 
-        TextView Id = row.findViewById(R.id.OID);
-        TextView Name = row.findViewById(R.id.ONAME);
+
         TextView PID = row.findViewById(R.id.OPID);
         TextView Quantity = row.findViewById(R.id.OQU);
-        TextView Total = row.findViewById(R.id.OTOT);
+
 
 
         Order order = OrderList.get(position);
-        Id.setText(order.getOrderID());
-        Name.setText(order.getCustomername());
         PID.setText(order.getProductID());
         Quantity.setText(String.valueOf(order.getQuantity()));
-        Total.setText(String.valueOf(order.getTotal()));
+
 
         return row;
     }

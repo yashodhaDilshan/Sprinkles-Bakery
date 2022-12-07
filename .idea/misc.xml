@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Programs/Mobile/Sprinkles-Bakery/app/src/main/res/layout/activity_buy_product.xml" value="0.55" />
         <entry key="..\:/Programs/Mobile/Sprinkles-Bakery/app/src/main/res/layout/activity_main.xml" value="0.55" />
+        <entry key="..\:/Programs/Mobile/Sprinkles-Bakery/app/src/main/res/layout/activity_user_order.xml" value="0.55" />
+        <entry key="..\:/Programs/Mobile/Sprinkles-Bakery/app/src/main/res/layout/list_order.xml" value="0.55" />
         <entry key="..\:/Project/Android Studio/Cupcake/app/src/main/res/drawable/custom_button.xml" value="0.2703125" />
         <entry key="..\:/Project/Android Studio/Cupcake/app/src/main/res/layout/activity_add_category.xml" value="0.25416666666666665" />
         <entry key="..\:/Project/Android Studio/Cupcake/app/src/main/res/layout/activity_admin.xml" value="0.25416666666666665" />
